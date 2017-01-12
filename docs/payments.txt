@@ -1,0 +1,9 @@
+
+
+other
+wagePayment
+purchaseFuel
+soldWood
+vehicleRunningCost
+harvestIncome
+soldWool
